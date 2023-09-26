@@ -5,7 +5,7 @@ from the [MaterialX Learn repo](https://github.com/kwokcb/MaterialX_Learn)
 
 ## Contents
 
-There is currently a [single notebook](https://github.com/kwokcb/MaterialX_Learn_Sample_Codespace/blob/main/notebooks/mtxl_json_notebook.ipynb) which contains parts of the JSON serialization notebook as a test.
+There is currently a [single notebook](https://github.com/kwokcb/MaterialX_Learn_Sample_Codespace/blob/main/notebooks/mtlx_json_notebook.ipynb) which contains parts of the JSON serialization notebook as a test.
 ![image](https://github.com/kwokcb/MaterialX_Learn_Sample_Codespace/assets/49369885/9a080432-25ac-472a-ab25-a6bea02765eb)
 
 The [devcontainer.json](https://github.com/kwokcb/MaterialX_Learn_Sample_Codespace/blob/main/.devcontainer/devcontainer.json) file includes a startup command to install package dependencies from the [requirements.txt](https://github.com/kwokcb/MaterialX_Learn_Sample_Codespace/blob/main/requirements.txt).
